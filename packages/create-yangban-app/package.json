@@ -11,5 +11,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.0",
+    "cross-spawn": "^7.0.3",
+    "got": "^11.8.0",
+    "tar": "^6.0.5"
+  }
 }
