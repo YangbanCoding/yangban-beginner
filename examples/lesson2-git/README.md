@@ -18,5 +18,5 @@
 - git push
 
 ## 더 공부하고 싶을 때 
-[Pro Git](https://git-scm.com/book/ko/v2)
+- [Pro Git](https://git-scm.com/book/ko/v2)
 

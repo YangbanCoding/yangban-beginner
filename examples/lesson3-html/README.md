@@ -48,22 +48,32 @@ npm run dev
 
 ## div가 아닌 태그의 예시
 - 유튜브 링크를 삽입하는 태그
+
 태그이름 : iframe
+
 속성 : width, height, src, frameborder, allow, allowfullscreen
+
 내용 : 없음
 ```jsx
 <iframe 
   width="560" 
   height="315" 
   src="https://www.youtube.com/embed/JPhLOCwlEQI" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
 ></iframe>
 ```
 
 - 누르면 팝업창이 나타나는 버튼을 만드는 태그
+
 태그이름 : button
+
 속성 : onClick
+
 내용 : 버튼
 ```jsx
 <button onClick={() => alert('hi')}>버튼</button>
 ```
+
+## 더 공부하고 싶을 때 
+- [w3schools - HTML](https://www.w3schools.com/html/default.asp)
