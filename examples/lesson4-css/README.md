@@ -43,7 +43,7 @@ npm run dev
   - 100vw 50vw 25vw - 화면 길이에 대한 비율
 - height
   - 100px 200px 300px
-  - 외부 박스의 100% 50% 25% - 외부 박스에 대한 비율
+  - 100% 50% 25% - 외부 박스에 대한 비율
   - 100vh 50vh 25vh - 화면 높이에 대한 비율
 - margin
   - 8px 16px 24px
@@ -75,7 +75,7 @@ npm run dev
 
 박스를 외부 박스의 정중앙에 위치시키기
 ```css
-.box {
+.container {
   justify-content: center;
   align-items: center;
 }
