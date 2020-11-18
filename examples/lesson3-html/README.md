@@ -48,8 +48,11 @@ npm run dev
 
 ## div가 아닌 태그의 예시
 - 유튜브 링크를 삽입하는 태그
+
 태그이름 : iframe
+
 속성 : width, height, src, frameborder, allow, allowfullscreen
+
 내용 : 없음
 ```jsx
 <iframe 
@@ -61,8 +64,11 @@ npm run dev
 ```
 
 - 누르면 팝업창이 나타나는 버튼을 만드는 태그
+
 태그이름 : button
+
 속성 : onClick
+
 내용 : 버튼
 ```jsx
 <button onClick={() => alert('hi')}>버튼</button>
