@@ -1,6 +1,6 @@
 # 입문 1강 - 시작하기
 
-## 완성 예제 다운받기
+## 이번 예제 실행하기
 빈 폴더에서
 ```
 npx create-yangban-app --example lesson1-tutorial
