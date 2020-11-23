@@ -18,7 +18,7 @@
 
 8\. React - props와 자주 쓰이는 hooks
 
-9\. React - context와 reducer를 활용한 state 관리
+9\. React - context와 reducer를 활용한 다중 state 관리
 
 10\. Nextjs - 라우팅
 
