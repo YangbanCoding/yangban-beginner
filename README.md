@@ -1,5 +1,4 @@
 # 양반코딩 - 입문
-회색은 준비중이에요
 
 ## 웹 강의
 [1. 시작하기](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson1-tutorial)
