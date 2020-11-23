@@ -9,6 +9,7 @@ npm run dev
 ```
 
 ## 영상
+[![5강 - JS-1](http://img.youtube.com/vi/ZbFJc8AkWPA/0.jpg)](http://www.youtube.com/watch?v=ZbFJc8AkWPA "5강 JS-1")
 
 ## 공부 자료
 - [Javascript: The Definitve Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
