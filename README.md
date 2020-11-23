@@ -10,7 +10,7 @@
 
 [4. CSS](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson4-css)
 
-5\. Javascript - 변수와 데이터 타입
+[5. Javascript - 변수와 데이터 타입](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson5-js-1)
 
 6\. Javascript - 분기와 반복
 
