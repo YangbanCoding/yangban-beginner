@@ -23,6 +23,16 @@ let text1 = '문자열1'
 let text2 = "문자열2"
 let text3 = `문자열3 ${number}` // 변수 삽입 가능
 ```
+한번만 선언할때는 const를 사용
+```javascript
+// let으로 선언
+let number = 50
+number = 100
+number = 200 // 얼마든지 다시 대입 가능
+// const로 선언
+const number2 = 50
+number2 = 500 // 에러 발생! const는 다시 대입이 불가능
+```
 변수 읽기
 ```jsx
 <div>{number}</div>
