@@ -23,7 +23,7 @@ let text1 = '문자열1'
 let text2 = "문자열2"
 let text3 = `문자열3 ${number}` // 변수 삽입 가능
 ```
-한번만 선언할때는 const를 사용
+값이 바뀌지 않는 경우는 const를 사용
 ```javascript
 // let으로 선언
 let number = 50
