@@ -9,6 +9,7 @@ npm run dev
 ```
 
 ## 영상
+[![6강 - JS-2](http://img.youtube.com/vi/BYkvJpicKQI/0.jpg)](http://www.youtube.com/watch?v=BYkvJpicKQI "6강 JS-2")
 
 ## 조건문 if
 문장이 조건에 따라 실행되게 하고 싶을 때
