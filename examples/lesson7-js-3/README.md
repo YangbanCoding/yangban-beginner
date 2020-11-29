@@ -9,6 +9,7 @@ npm run dev
 ```
 
 ## 영상
+[![7강 - JS-3](http://img.youtube.com/vi/Mjdtjm1-8qY/0.jpg)](http://www.youtube.com/watch?v=Mjdtjm1-8qY "7강 JS-3")
 
 ## 변수 분리하기
 변수가 여러 개인 경우
