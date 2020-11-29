@@ -13,7 +13,7 @@
 
 [6. Javascript - 조건문과 반복문](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson6-js-2)
 
-7\. Javascript - 파일 분리와 외부 라이브러리 이용하기
+[7. Javascript - 파일 분리](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson7-js-3)
 
 8\. React - props와 자주 쓰이는 hooks
 
