@@ -60,9 +60,13 @@ function MyTag () {
     </div>
   )
 }
+
+export default MyTag
 ```
 ```javascript
 // pages/Index.js
+import MyTag from '../components/MyTag'
+
 function Index () {
   return (
     <div>
