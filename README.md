@@ -11,7 +11,7 @@
 
 [5. Javascript - 변수와 데이터 타입](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson5-js-1)
 
-6\. Javascript - 분기와 반복
+[6. Javascript - 조건문과 반복문](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson6-js-2)
 
 7\. Javascript - 파일 분리와 외부 라이브러리 이용하기
 
