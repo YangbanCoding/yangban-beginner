@@ -9,3 +9,41 @@ npm run dev
 ```
 
 ## 영상
+
+## 공부하기
+[리액트 공식 문서 링크](https://ko.reactjs.org/)
+
+## props 사용법
+```javascript
+function Box (props) {
+  return (
+    <div>{props.title}</div>
+  )
+}
+
+function Index () {
+  return (
+    <div>
+      <Box title='git' />
+      <Box title='html' />
+    </div>
+  )
+}
+```
+
+## props.children 사용법
+```javascript
+function Box (props) {
+  return (
+    <div>{props.children}</div>
+  )
+}
+
+function Index () {
+  return (
+    <div>
+      <Box>이 문장이 표시됩니다</Box>
+    </div>
+  )
+}
+```
