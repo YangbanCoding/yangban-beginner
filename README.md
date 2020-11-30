@@ -15,11 +15,13 @@
 
 [7. Javascript - 파일 분리](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson7-js-3)
 
-8\. React - props와 자주 쓰이는 hooks
+8\. React - props 
 
-9\. React - context와 reducer를 활용한 다중 state 관리
+9\. React - hooks 기초 (useState, useEffect)
 
-10\. Nextjs - 라우팅
+10\. React - hooks 심화 (useContext, useReducer)
+
+11\. Nextjs - 라우팅
 
 ## 백엔드 강의
 
