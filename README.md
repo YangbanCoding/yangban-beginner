@@ -15,7 +15,7 @@
 
 [7. Javascript - 파일 분리](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson7-js-3)
 
-8\. React - props 
+[8. React - props](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson8-react-1)
 
 9\. React - hooks 기초 (useState, useEffect)
 
