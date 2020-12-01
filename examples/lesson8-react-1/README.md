@@ -9,6 +9,7 @@ npm run dev
 ```
 
 ## 영상
+[![8강 - React-1](http://img.youtube.com/vi/P44rGWbP4pA/0.jpg)](http://www.youtube.com/watch?v=P44rGWbP4pA "8강 React-1")
 
 ## 공부하기
 [리액트 공식 문서 링크](https://ko.reactjs.org/)
