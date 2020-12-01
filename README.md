@@ -19,7 +19,7 @@
 
 [9. React - hooks 기초 (useState, useEffect)](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson9-react-2)
 
-10\. React - hooks 심화 (useContext, useReducer)
+[10. React - hooks 심화 (useContext, useReducer)](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson10-react-3)
 
 11\. Nextjs - 라우팅 기초
 
