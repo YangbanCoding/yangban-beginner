@@ -71,3 +71,24 @@ for (let i = 0; i < 5; i = i + 1) {
 }
 // text에 ' 추가' 가 5번 추가됨
 ```
+
+## HTML 안의 조건문
+if
+```javascript
+const myAge = 25
+return (
+  <div>
+    {myAge >= 20 && <div>성인만 볼 수 있음<div>}
+  </div>
+)
+```
+
+if else
+```javascript
+const language = 'korean'
+return (
+  <div>
+    {language === 'korean' ? <div>한글</div> : <div>english</div>}
+  </div>
+)
+```
