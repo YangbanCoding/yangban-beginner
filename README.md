@@ -21,7 +21,9 @@
 
 10\. React - hooks 심화 (useContext, useReducer)
 
-11\. Nextjs - 라우팅
+11\. Nextjs - 라우팅 기초
+
+12\. Nextjs - 라우팅 심화
 
 ## 백엔드 강의
 
