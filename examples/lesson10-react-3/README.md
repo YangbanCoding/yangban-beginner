@@ -9,6 +9,7 @@ npm run dev
 ```
 
 ## 영상
+[![10강 - React-3](http://img.youtube.com/vi/hLm9J09wiOI/0.jpg)](http://www.youtube.com/watch?v=hLm9J09wiOI "10강 React-3")
 
 ## useReducer
 복잡한 state를 한 번에 관리할 떄 사용
