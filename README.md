@@ -17,7 +17,7 @@
 
 [8. React - props](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson8-react-1)
 
-9\. React - hooks 기초 (useState, useEffect)
+[9. React - hooks 기초 (useState, useEffect)](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson9-react-2)
 
 10\. React - hooks 심화 (useContext, useReducer)
 
