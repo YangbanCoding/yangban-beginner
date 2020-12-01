@@ -17,6 +17,7 @@ npm run dev
 ## useState
 변수와 같지만 state가 바뀌면 화면도 바뀜
 ```javascript
+import { useState } from 'react'
 // 선언
 let text = '기본값'
 const [text2, setText2] = useState('기본값')
@@ -26,4 +27,26 @@ const [text2, setText2] = useState('기본값')
 // 값 대입
 text = '새로운 값'
 setText2('새로운 값')
+```
+
+## useEffect
+화면이 렌더링 된 후 특정한 동작을 실행하고 싶을 때
+```javascript
+import { useEffect } from 'react'
+
+// 매번 실행
+useEffect(() => {
+  // 실행하고 싶은 내용
+})
+
+// 첫 렌더링 후 한 번만 실행
+useEffect(() => {
+  // 실행하고 싶은 내용
+}, [])
+
+// 특정한 값이 변할 때마다 실행
+useEffect(() => {
+  // 실행하고 싶은 내용
+  // text2가 변할 때만 실행됨
+}, [text2])
 ```
