@@ -21,7 +21,7 @@
 
 [10. React - hooks 심화 (useContext, useReducer)](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson10-react-3)
 
-11\. Nextjs - 라우팅 기초
+[11. Nextjs - 라우팅 기초](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson11-next-1)
 
 12\. Nextjs - 라우팅 심화
 
