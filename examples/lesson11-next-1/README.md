@@ -35,3 +35,27 @@ URL - https://yang.ban/diary/0101
 URL - https://yang.ban.diary/01/01
 코드 - pages/diary/01/01.js
 ```
+
+## 링크 만들기
+```javascript
+import Link from 'next/link'
+
+function Index () {
+  return (
+    <div>
+      <Link href='/'>
+        <div>홈으로</div>
+      </Link>
+      <Link href='/profile'>
+        <div>프로필</div>
+      </Link>
+      <Link href='/diary/0101'>
+        <div>1월 1일 일기</div>
+      </Link>
+      <Link href='/guestbook'>
+        <div>방명록</div>
+      </Link>      
+    </div>
+  )
+}
+```
