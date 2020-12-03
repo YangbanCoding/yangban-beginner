@@ -31,7 +31,9 @@
 
 2\. Graphql Query - 데이터 읽기
 
-3\. Graphql Mutation - 데이터 생성, 변경, 삭제
+3\. Graphql Query - 데이터 읽기 심화(조건, 정렬, 갯수 설정)
+
+4\. Graphql Mutation - 데이터 생성, 변경, 삭제
 
 4\. Graphql Subscription - 실시간 데이터
 
