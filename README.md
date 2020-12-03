@@ -29,6 +29,18 @@
 
 1\. 시작하기
 
+2\. Graphql Query - 데이터 읽기
+
+3\. Graphql Mutation - 데이터 생성, 변경, 삭제
+
+4\. Graphql Subscription - 실시간 데이터
+
+5\. one to one 관계
+
+6\. one to many 관계
+
+7\. many to many 관계
+
 ## 앱 강의
 
 1\. 시작하기
