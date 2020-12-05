@@ -23,7 +23,7 @@
 
 [11. Nextjs - 라우팅 기초](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson11-next-1)
 
-12\. Nextjs - 라우팅 심화
+[12. Nextjs - 라우팅 심화](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson12-next-2)
 
 ## 백엔드 강의
 
