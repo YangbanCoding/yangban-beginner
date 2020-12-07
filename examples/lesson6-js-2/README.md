@@ -1,6 +1,9 @@
 # 입문 6강 - Javascript : 조건문과 반복문
 
-## 예제 실행하기
+## 예제 바로 실행하기
+[https://codesandbox.io/s/lesson6-js-2-o0plw?file=/pages/index.js](https://codesandbox.io/s/lesson6-js-2-o0plw?file=/pages/index.js)
+
+## 예제 내 컴퓨터에서 실행하기
 빈 폴더에서
 ```
 npx create-yangban-app --example lesson6-js-2
