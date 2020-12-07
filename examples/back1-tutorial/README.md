@@ -27,10 +27,11 @@ npm run dev
 
 ## 일반 시작
 ### Docker DeskTop 설치
-[Docker Desktop 다운 받기](https://desktop.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
+- [Docker Desktop 다운 받기](https://desktop.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
 
-[WSL2 오류 메시지가 나오면 다운 받기](https://aka.ms/wsl2kernelmsix64)
+- [WSL2 오류 메시지가 나오면 다운 받기](https://aka.ms/wsl2kernelmsix64)
 
+- [그 밖에 설치 오류가 있을 때](https://docs.docker.com/docker-for-windows/install/)
 ### docker-compose.yaml 다운 받고 만들기
 ```bash
 curl https://raw.githubusercontent.com/hasura/graphql-engine/master/install-manifests/docker-compose/docker-compose.yaml > docker-compose.yaml
