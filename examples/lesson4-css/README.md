@@ -1,6 +1,9 @@
 # 입문 4강 - CSS
 
-## 예제 실행하기
+## 예제 바로 실행하기
+[https://codesandbox.io/s/lesson4-css-fj3zv](https://codesandbox.io/s/lesson4-css-fj3zv)
+
+## 예제 내 컴퓨터에서 실행하기
 빈 폴더에서
 ```
 npx create-yangban-app --example lesson4-css
