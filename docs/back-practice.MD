@@ -1,6 +1,6 @@
 # 입문 백엔드 예제 실행하기
 
-## 예제 실행하기
+## 예제 다운받기
 빈 폴더에서
 ```bash
 npx create-yangban-app --example back1-tutorial
