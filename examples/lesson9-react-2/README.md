@@ -1,6 +1,9 @@
 # 입문 9강 - React : hooks기초(useState, useEffect)
 
-## 예제 실행하기
+## 예제 바로 실행하기
+[https://codesandbox.io/s/lesson9-react-2-gdwln](https://codesandbox.io/s/lesson9-react-2-gdwln)
+
+## 예제 내 컴퓨터에서 실행하기
 빈 폴더에서
 ```
 npx create-yangban-app --example lesson9-react-2
