@@ -1,12 +1,12 @@
 # 입문 백엔드 예제 실행하기
 
-## 예제 다운받기
+## 1. 예제 다운받기
 빈 폴더에서
 ```bash
 npx create-yangban-app --example [예제이름]
 ```
-### hasura 서버 만들기
-#### 내 컴퓨터에 만들기
+## 2. hasura 서버 만들기
+### 내 컴퓨터에 만들기
 기존 도커 컨테이너 삭제
 ```bash
 docker rm -f $(docker ps -a -q)
@@ -16,10 +16,10 @@ docker volume rm $(docker volume ls -q)
 ```bash
 docker-compose up -d
 ```
-#### heroku에 만들기
+### heroku에 만들기
 [heroku에 hasura 서버 만들기](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku)
 
-### 백엔드 설정
+## 3. 백엔드 설정
 hasura/config.yaml 의 endpoint를 위에서 만든 서버 주소로 변경
 ```yaml
 version: 2
@@ -36,7 +36,7 @@ hasura migrate apply
 hasura metadata apply
 hasura seeds apply
 ```
-### 프론트엔드 설정
+## 4. 프론트엔드 설정
 web/.env의 NEXT_PUBLIC_API_ENDPOINT를 위에서 만든 서버 주소로 변경
 ```
 NEXT_PUBLIC_API_ENDPOINT=[여기에 서버 주소를 입력]
