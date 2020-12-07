@@ -1,6 +1,7 @@
 # 입문 백엔드 예제 실행하기
 
 ## 영상
+[![가이드 - 백엔드](http://img.youtube.com/vi/JUik8iVzsqo/0.jpg)](http://www.youtube.com/watch?v=JUik8iVzsqo "가이드 - 백엔드")
 
 ## hasura-cli 설치하기 (처음에 한 번만)
 영상에서 까먹고 안했어요 처음에 한 번만 꼭 해주셔야 해요
