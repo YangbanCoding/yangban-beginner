@@ -6,3 +6,6 @@
 ## 양반코딩 초급 강의
 
 ## 양반코딩 프로젝트
+
+## 양반코딩 잡지식
+[잡지식 링크](https://github.com/YangbanCoding/yangban-beginner/blob/main/docs/drivel.MD)
