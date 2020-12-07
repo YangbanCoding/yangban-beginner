@@ -1,6 +1,9 @@
 # 입문 백엔드 예제 실행하기
 
+## 영상
+
 ## hasura-cli 설치하기 (처음에 한 번만)
+영상에서 까먹고 안했어요 처음에 한 번만 꼭 해주셔야 해요
 ```bash
 npm install -g hasura-cli
 ```
@@ -60,6 +63,3 @@ bash에서
 cd web
 npm run dev
 ```
-
-
-## 영상
