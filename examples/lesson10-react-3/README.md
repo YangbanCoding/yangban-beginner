@@ -1,6 +1,9 @@
 # 입문 10강 - React : hooks심화(useReducer, useContext)
 
-## 예제 실행하기
+## 예제 바로 실행하기
+[https://codesandbox.io/s/lesson10-react-3-wig9r](https://codesandbox.io/s/lesson10-react-3-wig9r)
+
+## 예제 내 컴퓨터에서 실행하기
 빈 폴더에서
 ```
 npx create-yangban-app --example lesson10-react-3
