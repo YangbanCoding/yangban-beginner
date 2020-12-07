@@ -21,7 +21,7 @@ docker-compose up -d
 ```
 
 ## 3. 백엔드 설정
-hasura/config.yaml 의 endpoint를 위에서 만든 서버 주소로 변경
+hasura/config.yaml 의 endpoint를 2에서 만든 서버 주소로 변경
 ```yaml
 version: 2
 endpoint: [여기에 서버 주소를 입력]
@@ -38,7 +38,7 @@ hasura metadata apply
 hasura seeds apply
 ```
 ## 4. 프론트엔드 설정
-web/.env의 NEXT_PUBLIC_API_ENDPOINT를 위에서 만든 서버 주소로 변경
+web/.env의 NEXT_PUBLIC_API_ENDPOINT를 2에서 만든 서버 주소로 변경
 ```
 NEXT_PUBLIC_API_ENDPOINT=[여기에 서버 주소를 입력]
 ```
