@@ -3,7 +3,7 @@
 ## 예제 다운받기
 빈 폴더에서
 ```bash
-npx create-yangban-app --example back1-tutorial
+npx create-yangban-app --example [예제이름]
 ```
 ### hasura 서버 만들기
 #### 내 컴퓨터에 만들기
