@@ -9,6 +9,10 @@ npx create-yangban-app --example [예제이름]
 ### 2-a. heroku에 만들기
 [heroku에 hasura 서버 만들기](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku)
 
+API 서버 주소
+```
+https://[만들 때 지정한 이름].herokuapp.com/
+```
 ### 2-b. 내 컴퓨터에 만들기
 기존 도커 컨테이너 삭제
 ```bash
@@ -20,6 +24,10 @@ docker volume rm $(docker volume ls -q)
 docker-compose up -d
 ```
 
+API 서버 주소
+```
+http://localhost:8080
+```
 ## 3. 백엔드 설정
 hasura/config.yaml 의 endpoint를 2에서 만든 서버 주소로 변경
 ```yaml
