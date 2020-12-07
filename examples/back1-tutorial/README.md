@@ -78,3 +78,9 @@ function createApolloClient() {
 // .env
 NEXT_PUBLIC_API_ENDPOINT=[여기에 서버 주소를 입력]
 ```
+
+## 모든 도커 컨테이너 삭제하기
+```
+docker rm -f $(docker ps -a -q)
+docker volume rm $(docker volume ls -q)
+```
