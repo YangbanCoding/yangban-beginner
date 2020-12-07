@@ -1,7 +1,9 @@
 # 입문 백엔드 예제 실행하기
 
 ## hasura-cli 설치하기 (처음에 한 번만)
+```bash
 npm install -g hasura-cli
+```
 
 ## 1. 예제 다운받기
 빈 폴더에서
