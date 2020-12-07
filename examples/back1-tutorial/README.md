@@ -21,6 +21,7 @@ npm run dev
 [예제 실행 방법 자세히 보기](https://github.com/YangbanCoding/yangban-beginner/blob/main/docs/back-practice.MD)
 
 ## 영상
+[![1강 - 시작하기](http://img.youtube.com/vi/1RUXx6VS1kc/0.jpg)](http://www.youtube.com/watch?v=1RUXx6VS1kc "1강 시작하기")
 
 ## 빠른 시작
 [heroku에 hasura 서버 만들기](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku)
