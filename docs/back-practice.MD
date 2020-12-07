@@ -1,6 +1,6 @@
 # 입문 백엔드 예제 실행하기
 
-## hasura-cli 설치 (한 번만)
+## hasura-cli 설치 (처음에 한 번만)
 ```bash
 npm install -g hasura-cli
 ```
