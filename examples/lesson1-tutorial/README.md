@@ -1,6 +1,9 @@
 # 입문 1강 - 시작하기
 
-## 예제 실행하기
+## 예제 바로 실행하기
+[https://codesandbox.io/s/lesson1-tutorial-utyd8](https://codesandbox.io/s/lesson1-tutorial-utyd8)
+
+## 예제 내 컴퓨터에서 실행하기
 빈 폴더에서
 ```
 npx create-yangban-app --example lesson1-tutorial
