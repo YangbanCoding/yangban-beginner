@@ -1,6 +1,9 @@
 # 입문 3강 - HTML
 
-## 예제 실행하기
+## 예제 바로 실행하기
+[https://codesandbox.io/s/lesson3-html-ft6gy?file=/pages/index.js](https://codesandbox.io/s/lesson3-html-ft6gy?file=/pages/index.js)
+
+## 예제 내 컴퓨터에서 실행하기
 빈 폴더에서
 ```
 npx create-yangban-app --example lesson3-html
