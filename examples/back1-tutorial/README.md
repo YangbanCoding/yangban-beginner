@@ -27,9 +27,9 @@ npm run dev
 
 ## 일반 시작
 ### Docker DeskTop 설치
-[Docker Desktop 다운받기](https://desktop.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
+[Docker Desktop 다운 받기](https://desktop.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
 
-[WSL2 오류 메시지가 나올 때](https://aka.ms/wsl2kernelmsix64)
+[WSL2 오류 메시지가 나오면 다운 받기](https://aka.ms/wsl2kernelmsix64)
 
 ### docker-compose.yaml 다운 받고 만들기
 ```bash
