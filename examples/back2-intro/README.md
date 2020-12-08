@@ -1,6 +1,7 @@
 # 입문 백엔드 2강 - Hasura 소개와 데이터 베이스 기초
 
 ## 영상
+[![2강 - CRUD](http://img.youtube.com/vi/qcaOz4v1uEM/0.jpg)](http://www.youtube.com/watch?v=qcaOz4v1uEM "2강 CRUD")
 
 ## 입문 백엔드 강의 목표
  - GraphQL을 사용한 데이터베이스에 대한 CRUD 작업
