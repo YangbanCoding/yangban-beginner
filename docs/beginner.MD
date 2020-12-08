@@ -29,7 +29,7 @@
 
 [1. 시작하기](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/back1-tutorial)
 
-2\. Hasura 사용법과 데이터베이스 기초
+[2. Hasura 사용법과 데이터베이스 기초](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/back2-intro)
 
 3\. Graphql Query - 데이터 읽기
 
