@@ -37,7 +37,7 @@
 
 5\. Graphql Mutation - 데이터 생성, 변경, 삭제
 
-6\. Graphql Subscription - 실시간 데이터
+6\. Graphql Subscription - 웹소켓과 실시간 데이터
 
 7\. one to one 관계
 
