@@ -21,7 +21,7 @@
 
 [10. React - hooks 심화 (useContext, useReducer)](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson10-react-3)
 
-11\. React - React forms - 유저 데이터 입력 처리하기
+[11. React - React forms - 유저 데이터 입력 처리하기](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson11-react-4)
 
 [12. Nextjs - 라우팅 기초](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson12-next-1)
 
@@ -33,7 +33,7 @@
 
 [2. Hasura 사용법과 데이터베이스 기초](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/back2-intro)
 
-3\. Graphql Query - 데이터 읽기
+[3. Graphql Query - 데이터 읽기](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/back3-query-1)
 
 4\. Graphql Query - 데이터 읽기 심화(조건, 정렬, 갯수 설정)
 
