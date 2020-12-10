@@ -14,9 +14,8 @@ hasura metadata apply
 hasura seeds apply
 ```
 프론트엔드
-```bash
-cd web
-npm run dev
+```
+없음
 ```
 [예제 실행 방법 자세히 보기](https://github.com/YangbanCoding/yangban-beginner/blob/main/docs/back-practice.MD)
 
