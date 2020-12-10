@@ -93,3 +93,25 @@ query user_one($id: Int!){
   - _and : 모든 조건을 만족하는 데이터를 검색한다
   
   - _or : 조건 중 하나 이상을 만족하는 데이터를 검색한다
+
+- 키가 180이상이거나 이름에 민준이 들어가는 유저를 검색
+```graphql
+{
+  user(
+    where: {
+      _or: {
+        height: {
+          _gte: 180
+        }
+        name: {
+          _like: "%민준%"
+        }
+      }
+    }
+  ) {
+    id
+    name
+    height
+  }
+}
+```
