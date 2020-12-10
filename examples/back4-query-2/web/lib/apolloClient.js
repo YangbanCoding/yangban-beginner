@@ -8,40 +8,13 @@ export const APOLLO_STATE_PROP_NAME = '__APOLLO_STATE__'
 
 let apolloClient
 
-const httpLink = new HttpLink({
-  uri: process.env.NEXT_PUBLIC_API_ENDPOINT,
-  credentials: 'same-origin', // Additional fetch() options like `credentials` or `headers`
-})
-
-let link = httpLink
-
-if (process.browser) {
-  const wsLink = new WebSocketLink({
-    uri: process.env.NEXT_PUBLIC_WSS_ENDPOINT,
-    options: {
-      reconnect: true
-    }
-  })
-  
-  const splitLink = split(
-    ({ query }) => {
-      const definition = getMainDefinition(query);
-      return (
-        definition.kind === 'OperationDefinition' &&
-        definition.operation === 'subscription'
-      );
-    },
-    wsLink,
-    httpLink,
-  )
-
-  link = splitLink
-}
-
 function createApolloClient() {
   return new ApolloClient({
     ssrMode: typeof window === 'undefined',
-    link: link,
+    link: new HttpLink({
+      uri: process.env.NEXT_PUBLIC_API_ENDPOINT,
+      credentials: 'same-origin', // Additional fetch() options like `credentials` or `headers`
+    }),
     cache: new InMemoryCache()
   })
 }
