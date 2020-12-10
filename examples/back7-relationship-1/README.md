@@ -23,7 +23,7 @@ npm run dev
 ## 영상
 
 ## one to one 관계 설정하기
-1. 한 테이블에서 다른 테이블의 primary key를 참조하는 foreign key를 생성
+1. youtube_channel에서 google_account 테이블의 primary key를 참조하는 foreign key를 추가
 - google_account 테이블
 
 id(primary key)| email | birthday | sex | phone_number
@@ -38,9 +38,20 @@ id | channel_name | subscribers | google_account_id(foreign key)
 
 2. foreign key를 unique로 설정
 
-3. foreign key를 설정한 테이블 relationship에서 from(foreign key) to(참조하고 싶은 테이블의 primary key)로 설정
 
-4. 참조 하고 싶은 테이블 relationship에서 from(primary key) to(foreign key를 설정한 테이블의 foreign key)로 설정
+3. youtube_channel의 relationship 
+ - Relation type을 Object Relationship으로 설정
+ - Relation name에 원하는 이름을 설정
+ - Reference Table을 google_account 테이블로 설정
+ - from을 foreign key(google_account_id)로 설정
+ - to를 primary key(id)로 설정
+
+4. google_account의 relationship
+ - Relation type을 Object Relationship으로 설정
+ - Relation name에 원하는 이름을 설정
+ - Reference Table을 youtube_channel 테이블로 설정
+ - from을 primary key(id)로 설정
+ - to를 foreign key(google_account_id)로 설정
 
 ## GraphQL
 - 원래 테이블 -> foreign key를 설정한 테이블
