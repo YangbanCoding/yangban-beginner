@@ -1,0 +1,19 @@
+- table:
+    schema: public
+    name: google_account
+  object_relationships:
+  - name: youtube_channel
+    using:
+      manual_configuration:
+        remote_table:
+          schema: public
+          name: youtube_channel
+        column_mapping:
+          id: google_acount_id
+- table:
+    schema: public
+    name: youtube_channel
+  object_relationships:
+  - name: google_account
+    using:
+      foreign_key_constraint_on: google_acount_id
