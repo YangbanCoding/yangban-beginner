@@ -22,4 +22,19 @@ npm run dev
 
 ## 영상
 
-##
+## Graphql Subscription
+- Query와 같지만 실시간 데이터 처리 가능
+```graphql
+subscription {
+  chat {
+    id
+    text
+  }
+}
+```
+
+## .env에 웹소켓 endpoint 추가하기
+```env
+NEXT_PUBLIC_API_ENDPOINT=http://localhost:8080/v1/graphql
+NEXT_PUBLIC_WEBSOCKET_ENDPOINT=ws://localhost:8080/v1/graphql
+```
