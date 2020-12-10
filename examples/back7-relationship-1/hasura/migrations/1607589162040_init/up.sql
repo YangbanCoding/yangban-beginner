@@ -14,7 +14,7 @@ CREATE TABLE public.google_account (
     email text NOT NULL,
     birthday text NOT NULL,
     sex text NOT NULL,
-    phone_number integer NOT NULL
+    phone_number text NOT NULL
 );
 CREATE SEQUENCE public.google_account_id_seq
     AS integer
