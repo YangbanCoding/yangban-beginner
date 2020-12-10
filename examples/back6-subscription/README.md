@@ -1,4 +1,4 @@
-# 입문 백엔드 5강 - Graphql Subscription : 웹소켓과 실시간 데이터
+# 입문 백엔드 6강 - Graphql Subscription : 웹소켓과 실시간 데이터
 
 ## 예제 실행하기
 
