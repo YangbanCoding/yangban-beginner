@@ -41,11 +41,11 @@
 
 6\. Graphql Subscription - 웹소켓과 실시간 데이터
 
-7\. one to one 관계
+7\. Table relationship - one to one 관계
 
-8\. one to many 관계
+8\. Table relationship - one to many 관계
 
-9\. many to many 관계
+9\. Table relationship - many to many 관계
 
 ## 앱 강의
 
