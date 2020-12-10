@@ -21,6 +21,7 @@ npm run dev
 [예제 실행 방법 자세히 보기](https://github.com/YangbanCoding/yangban-beginner/blob/main/docs/back-practice.MD)
 
 ## 영상
+[![3강 - Query-1](http://img.youtube.com/vi/ntqXBJF8Y_U/0.jpg)](http://www.youtube.com/watch?v=ntqXBJF8Y_U "3강 Query-1")
 
 ## 모든 데이터 읽기
 ```graphql
