@@ -35,7 +35,7 @@
 
 [3. Graphql Query - 데이터 읽기](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/back3-query-1)
 
-4\. Graphql Query - 데이터 읽기 심화(조건, 정렬, 갯수 설정)
+4\. Graphql Query - 데이터 읽기 심화(조건, 정렬, 갯수, 변수)
 
 5\. Graphql Mutation - 데이터 생성, 변경, 삭제
 
