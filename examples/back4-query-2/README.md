@@ -21,6 +21,7 @@ npm run dev
 [예제 실행 방법 자세히 보기](https://github.com/YangbanCoding/yangban-beginner/blob/main/docs/back-practice.MD)
 
 ## 영상
+[![4강 - Query-2](http://img.youtube.com/vi/nGJJ3Ybx56A/0.jpg)](http://www.youtube.com/watch?v=nGJJ3Ybx56A "4강 Query-2")
 
 ## 변수 사용하기
 ```graphql
