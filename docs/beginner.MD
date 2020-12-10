@@ -35,17 +35,17 @@
 
 [3. Graphql Query - 데이터 읽기](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/back3-query-1)
 
-4\. Graphql Query - 데이터 읽기 심화(조건, 정렬, 갯수, 변수)
+[4. Graphql Query - 데이터 읽기 심화(조건, 정렬, 갯수, 변수)](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/back4-query-2)
 
-5\. Graphql Mutation - 데이터 생성, 변경, 삭제
+[5. Graphql Mutation - 데이터 생성, 변경, 삭제](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/back5-mutation)
 
-6\. Graphql Subscription - 웹소켓과 실시간 데이터
+[6. Graphql Subscription - 웹소켓과 실시간 데이터](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/back6-subscription)
 
-7\. Table relationship - one to one 관계
+[7. Table relationship - one to one 관계](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/back7-relationship-1)
 
-8\. Table relationship - one to many 관계
+[8. Table relationship - one to many 관계](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/back8-relationship-2)
 
-9\. Table relationship - many to many 관계
+[9. Table relationship - many to many 관계](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/back9-relationship-3)
 
 ## 앱 강의
 
