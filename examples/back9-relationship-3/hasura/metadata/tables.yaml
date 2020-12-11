@@ -1,0 +1,32 @@
+- table:
+    schema: public
+    name: like_video
+  object_relationships:
+  - name: video
+    using:
+      foreign_key_constraint_on: video_id
+  - name: youtube_channel
+    using:
+      foreign_key_constraint_on: youtube_channel_id
+- table:
+    schema: public
+    name: video
+  array_relationships:
+  - name: like_videos
+    using:
+      foreign_key_constraint_on:
+        column: video_id
+        table:
+          schema: public
+          name: like_video
+- table:
+    schema: public
+    name: youtube_channel
+  array_relationships:
+  - name: like_videos
+    using:
+      foreign_key_constraint_on:
+        column: youtube_channel_id
+        table:
+          schema: public
+          name: like_video
