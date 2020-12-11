@@ -1,0 +1,24 @@
+- table:
+    schema: public
+    name: video
+  object_relationships:
+  - name: youtube_channel
+    using:
+      manual_configuration:
+        remote_table:
+          schema: public
+          name: youtube_channel
+        column_mapping:
+          youtube_channel_id: id
+- table:
+    schema: public
+    name: youtube_channel
+  array_relationships:
+  - name: videos
+    using:
+      manual_configuration:
+        remote_table:
+          schema: public
+          name: video
+        column_mapping:
+          id: youtube_channel_id
