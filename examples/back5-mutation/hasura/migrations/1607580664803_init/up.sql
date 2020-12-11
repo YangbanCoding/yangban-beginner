@@ -15,8 +15,6 @@ CREATE TABLE public."user" (
     state text NOT NULL,
     height integer NOT NULL,
     weight integer NOT NULL,
-    created_at timestamp with time zone DEFAULT now(),
-    updated_at timestamp with time zone DEFAULT now()
 );
 CREATE SEQUENCE public.user_id_seq
     AS integer
