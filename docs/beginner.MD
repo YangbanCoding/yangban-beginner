@@ -49,15 +49,17 @@
 
 ## 앱 강의
 
-1\. 시작하기
+[1. 시작하기](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/app1-tutorial)
 
-2\. React Native 기본 컴포넌트 (View, ScrollView, Text, Image)
+2\. 웹 사이트 그대로 앱으로 만들기
 
-3\. css 적용하기
+3\. React Native 기본 컴포넌트 (View, ScrollView, Text, Image)
 
-4\. 아이콘 사용하기 : React native vector icons
+4\. css 적용하기
 
-5\. 화면 전환하기 : React Navigation
+5\. 아이콘 사용하기 : React native vector icons
+
+6\. 화면 전환하기 : React Navigation
 
 ## 카피 프로젝트
 
