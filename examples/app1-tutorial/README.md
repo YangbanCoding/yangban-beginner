@@ -14,18 +14,33 @@ npx react-native run-ios # 아이폰
 ## Windows
 
 ### 설치하기
-- Chocolatey : cmd에서
+- Chocolatey : 명령 프롬프트를 관리자 권한으로 실행
 ```cmd
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "[System.Net.WebRequest]::DefaultWebProxy.Credentials = [System.Net.CredentialCache]::DefaultCredentials; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH="%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
 
 ```
-- JDK(Java Development Kit)
+- JDK(Java Development Kit) : git bash를 관리자 권한으로 실행
 ```bash
 choco install -y openjdk8
 ```
 - [Android Studio](https://developer.android.com/studio/index.html)
-- Android SDK 10 
-- 경로 설정
+- SDK Manager
+  - SDK Platforms - Show Package Details에 체크
+  - Android 10.0(Q)
+    - Android SDK Platform 29
+    - Intel x86 Atom_64 System Image, Google APIs Intel x86 Atom System Image 중 하나
+    
+  - SDK Tools - Show Package Details에 체크
+  - Android SDK Build-Tools
+    - 29.0.2 체크
+- 경로 설정 : C:/사용자/[내 이름]/.bash_profile
+```bash
+export ANDROID_HOME=$HOME/AppData/Local/Android/Sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/tools/bin
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+```
 
 ## Mac
 ----
