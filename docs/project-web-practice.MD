@@ -1,6 +1,7 @@
 # 웹 프로젝트 예제 실행하기
 
 ## 영상
+[![웹 프로젝트 예제 실행하기](http://img.youtube.com/vi/_qp5FJXa7ww/0.jpg)](http://www.youtube.com/watch?v=_qp5FJXa7ww "웹 프로젝트 예제 실행하기")
 
 ## 1. 예제 다운받기
 빈 폴더에서
