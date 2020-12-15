@@ -47,6 +47,11 @@
 
 [9. Table relationship - many to many 관계](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/back9-relationship-3)
 
+
+## 프론트엔드 강의
+
+준비 중
+
 ## 앱 강의
 
 [1. 시작하기](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/app1-tutorial)
@@ -66,6 +71,6 @@
 ### 웹
 - 디시인사이드 - 양반인사이드
 
-- 나무위키 - 양반위키
+- [나무위키 - 양반위키](https://github.com/YangbanCoding/copy-web-wiki)
 
 ### 앱
