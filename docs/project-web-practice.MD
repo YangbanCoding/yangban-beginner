@@ -84,3 +84,4 @@ git push
 
 ### 3-4. github repository를 vercel과 연동하기
 - [Vercel](https://vercel.com)
+- ENVIRONMENT VARIABLES에 키 NEXT_PUBLIC_API_ENDPOINT 값 3-1에서 만든 서버 주소 입력하기
