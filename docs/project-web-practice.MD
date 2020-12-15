@@ -75,7 +75,8 @@ hasura metadata apply
 hasura seeds apply # 시드 파일이 있는 경우
 ```
 ### 3-3. 프론트엔드 github에 올리기
-- repository 만들기
+- [repository 만들기](https://github.com/new)
+- 코드 push 하기
 ```
 git remote set-url origin https://github.com/[github이름]/[repository이름]
 git push 
