@@ -12,7 +12,7 @@ npm run dev
 ```
 
 ## 영상
-[![12강 - Nextjs-2](http://img.youtube.com/vi/mw9BXilyEOo/0.jpg)](http://www.youtube.com/watch?v=mw9BXilyEOo "12강 Nextjs-2")
+[![13강 - Nextjs-2](http://img.youtube.com/vi/mw9BXilyEOo/0.jpg)](http://www.youtube.com/watch?v=mw9BXilyEOo "13강 Nextjs-2")
 
 ## 다이나믹 라우팅 1
 ```
