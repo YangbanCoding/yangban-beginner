@@ -62,9 +62,7 @@
 
 4\. css 적용하기
 
-5\. 아이콘 사용하기 : React native vector icons
-
-6\. 화면 전환하기 : React Navigation
+5\. 화면 전환하기 : React Navigation
 
 ## 카피 프로젝트
 
