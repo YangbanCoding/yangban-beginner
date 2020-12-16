@@ -14,6 +14,9 @@ npx react-native run-ios # 아이폰
 
 ## 영상
 
+## React Native 공식 문서
+ - [React Native 공식 문서](https://reactnative.dev)
+ 
 ## Windows
 
 ### 설치하기
@@ -22,7 +25,7 @@ npx react-native run-ios # 아이폰
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "[System.Net.WebRequest]::DefaultWebProxy.Credentials = [System.Net.CredentialCache]::DefaultCredentials; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH="%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
 
 ```
-- JDK(Java Development Kit) : git bash를 관리자 권한으로 실행
+- JDK(Java Development Kit) : 명령 프롬프트를 관리자 권한으로 실행
 ```bash
 choco install -y openjdk8
 ```
