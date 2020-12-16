@@ -9,7 +9,7 @@ const install = () => {
     const iosPath = path.resolve('.', 'app/ios')
 
     if (fs.existsSync(webPath)) {
-      const child = spawn('npm', ['install'], { stdio: 'inherit', cwd: webPath })  
+      const child = spawn('yarn', ['install'], { stdio: 'inherit', cwd: webPath })  
   
       child.on('close', (code) => {
         resolve()
@@ -17,7 +17,7 @@ const install = () => {
     }
 
     if (fs.existsSync(appPath)) {
-      const child = spawn('npm', ['install'], { stdio: 'inherit', cwd: appPath })  
+      const child = spawn('yarn', ['install'], { stdio: 'inherit', cwd: appPath })  
   
       child.on('close', (code) => {
         if (fs.existsSync(iosPath)) {
