@@ -13,6 +13,7 @@ npx react-native run-ios # 아이폰
 ```
 
 ## 영상
+[![1강 - 시작하기](http://img.youtube.com/vi/YY7ZQ2LiY8k/0.jpg)](http://www.youtube.com/watch?v=YY7ZQ2LiY8k "1강 시작하기")
 
 ## React Native 공식 문서
  - [React Native 공식 문서](https://reactnative.dev)
