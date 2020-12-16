@@ -1,4 +1,4 @@
-# 입문 11강 - Nextjs : 라우팅 기초
+# 입문 12강 - Nextjs : 라우팅 기초
 
 ## 예제 바로 실행하기
 [https://codesandbox.io/s/lesson11-next-1-5pfo1](https://codesandbox.io/s/lesson11-next-1-5pfo1)
@@ -6,13 +6,13 @@
 ## 예제 내 컴퓨터에서 실행하기
 빈 폴더에서
 ```
-npx create-yangban-app --example lesson11-next-1
+npx create-yangban-app --example lesson12-next-1
 cd web
 npm run dev
 ```
 
 ## 영상
-[![11강 - Nextjs-1](http://img.youtube.com/vi/nqrpCXLDWYA/0.jpg)](http://www.youtube.com/watch?v=nqrpCXLDWYA "11강 Nextjs-1")
+[![12강 - Nextjs-1](http://img.youtube.com/vi/nqrpCXLDWYA/0.jpg)](http://www.youtube.com/watch?v=nqrpCXLDWYA "12강 - Nextjs-1")
 
 ## 기본 라우팅
 pages폴더 안의 파일이 웹 사이트의 주소가 됨
