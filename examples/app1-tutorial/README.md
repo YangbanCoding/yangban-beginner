@@ -52,6 +52,11 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 ----
 ----
 
+## 안드로이드 에뮬레이터 실행하기
+- Android Studio 실행
+- Configure -> AVD Manager 클릭
+- 원하는 기계의 재생버튼 클릭
+
 ## 앱 개발 해보기
 빈 폴더를 만들고 오른쪽 클릭 Git Bash Here
 ```
