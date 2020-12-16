@@ -1,4 +1,4 @@
-# 입문 12강 - Nextjs : 라우팅 심화
+# 입문 13강 - Nextjs : 라우팅 심화
 
 ## 예제 바로 실행하기
 [https://codesandbox.io/s/lesson11-next-2-0ctgg](https://codesandbox.io/s/lesson11-next-2-0ctgg)
@@ -6,13 +6,13 @@
 ## 예제 내 컴퓨터에서 실행하기
 빈 폴더에서
 ```
-npx create-yangban-app --example lesson12-next-2
+npx create-yangban-app --example lesson13-next-2
 cd web
 npm run dev
 ```
 
 ## 영상
-[![12강 - Nextjs-2](http://img.youtube.com/vi/mw9BXilyEOo/0.jpg)](http://www.youtube.com/watch?v=mw9BXilyEOo "12강 Nextjs-2")
+[![13강 - Nextjs-2](http://img.youtube.com/vi/mw9BXilyEOo/0.jpg)](http://www.youtube.com/watch?v=mw9BXilyEOo "13강 Nextjs-2")
 
 ## 다이나믹 라우팅 1
 ```
