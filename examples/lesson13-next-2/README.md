@@ -6,7 +6,7 @@
 ## 예제 내 컴퓨터에서 실행하기
 빈 폴더에서
 ```
-npx create-yangban-app --example lesson12-next-2
+npx create-yangban-app --example lesson13-next-2
 cd web
 npm run dev
 ```
