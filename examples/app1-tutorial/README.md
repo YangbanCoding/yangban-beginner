@@ -1,5 +1,8 @@
 # 입문 앱 1강 - 시작하기
 
+## 선행 강의
+- [입문 웹(1강 ~ 10강)](https://github.com/YangbanCoding/yangban-beginner/blob/main/docs/beginner.MD)
+
 ## 예제 내 컴퓨터에서 실행하기
 빈 폴더에서
 ```bash
